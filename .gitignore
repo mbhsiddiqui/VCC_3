@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+
+# Local editor and temporary files
+.idea/
+.vscode/
+*~
+*.swp
+*.tmp
+*.log
+
+# Private local configuration (retain safe examples)
+.env
+.env.*
+!.env.example
